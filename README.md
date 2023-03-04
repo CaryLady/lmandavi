@@ -54,5 +54,12 @@
 
 <b>Blogs</b>
 
-- [Blogs on SAS Visual Analytics](https://blogs.sas.com/content/author/lavanyamandavilli/)
-
+- [Five key security features in the SAS Visual Analytics app](https://blogs.sas.com/content/sgf/2019/05/06/five-key-security-features-in-the-sas-visual-analytics-app/)
+- [Is it sensitive? Mask it with data suppression](https://blogs.sas.com/content/sgf/2018/03/02/is-it-sensitive-mask-it-with-data-suppression/)
+- [Managing server access for SAS Mobile Business Intelligence Users](https://blogs.sas.com/content/sgf/2016/08/23/managing-server-access-for-sas-mobile-bi-users/)
+- [Jazz up a Geo Map with colorful icon-based display rules](https://blogs.sas.com/content/sgf/2018/03/02/is-it-sensitive-mask-it-with-data-suppression/)
+- [Passcode security for SAS Mobile Business Intelligence](https://blogs.sas.com/content/sgf/2016/08/08/passcode-security-for-sas-mobile-bi/)
+- [How to create a playable dashboard with SAS Visual Analytics](https://blogs.sas.com/content/sgf/2018/12/03/how-to-create-a-playable-dashboard-with-sas-visual-analytics/)
+- [Do it live! How to present your screen from the SAS Visual Analytics app](https://blogs.sas.com/content/sgf/2018/10/03/do-it-live-how-to-present-your-screen-from-the-sas-visual-analytics-app/)
+- [Quick primer on the SAS Visual Analytics app](https://blogs.sas.com/content/sgf/2018/09/25/quick-primer-on-the-sas-visual-analytics-app/)
+- [Linking to target reports and sections in SAS Visual Analytics](https://blogs.sas.com/content/sgf/2017/05/04/linking-to-target-reports-and-sections-in-sas-visual-analytics-7-4/)
