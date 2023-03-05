@@ -36,8 +36,9 @@
 
 <b>Administration Guides</b>
 
-- [SAS Intelligence Platform Administration Guide](https://documentation.sas.com/doc/en/bicdc/9.4/biov/p1vqz3cyewpergn19se17cetvhb2.htm/)
+- [SAS LASR Analytic Server Administration Guide](https://documentation.sas.com/doc/en/bicdc/9.4/inmsref/n0a090rw1gy20un1xvhhbe7deb1i.htm)
 - [SAS Visual Analytics Administration Guide](https://documentation.sas.com/doc/en/bicdc/9.4/vaag/titlepage.htm)
+- [SAS Intelligence Platform Administration Guide](https://documentation.sas.com/doc/en/bicdc/9.4/biov/p1vqz3cyewpergn19se17cetvhb2.htm/)
 - [SAS Intelligence Platform Middle-Tier Administration Guide](https://documentation.sas.com/doc/en/bicdc/9.4/bimtag/titlepage.htm)
 
 <b>Architecture Overviews</b>
@@ -63,3 +64,8 @@
 - [Do it live! How to present your screen from the SAS Visual Analytics app](https://blogs.sas.com/content/sgf/2018/10/03/do-it-live-how-to-present-your-screen-from-the-sas-visual-analytics-app/)
 - [Quick primer on the SAS Visual Analytics app](https://blogs.sas.com/content/sgf/2018/09/25/quick-primer-on-the-sas-visual-analytics-app/)
 - [Linking to target reports and sections in SAS Visual Analytics](https://blogs.sas.com/content/sgf/2017/05/04/linking-to-target-reports-and-sections-in-sas-visual-analytics-7-4/)
+
+<b>Speedcon 2021 Webinar for Students in the MA Technical Communication program at North Carolina State University</b>
+
+- [Strategies for Getting Into Technical Communication - My talk on how students can improve their LinkedIn profile begins at the 19:43 mark](https://www.youtube.com/watch?v=_zNh0K-tIds&list=PLaThiqgYMFsew8NqRzBgcwmwWv7Ain_ZN&index=9)
+
